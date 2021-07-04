@@ -4,7 +4,5 @@ PREDEF:
 CHAPS:
   - article.re
 
-APPENDIX:
-
 POSTDEF:
   - contributors.re
