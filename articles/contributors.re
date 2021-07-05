@@ -9,4 +9,7 @@
  * Twitter: https://twitter.com/pankona
  * GitHub: https://github.com/pankona
  * Blog: https://pankona.github.io/
+ * メール: yosuke.akatsuka@gmail.com
+
+ご意見やご感想、ご質問などあれば、是非ツイッターの DM やメール等でご連絡ください。
 
