@@ -5,6 +5,10 @@ labels: [bug]
 assignees:
   - pankona
 body:
+  - type: markdown
+    attributes:
+      value: |
+        誤字脱字のご指摘ありがとうございます！
   - type: textarea
     id: wrong
     attributes:
