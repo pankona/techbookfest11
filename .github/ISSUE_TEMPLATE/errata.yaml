@@ -1,5 +1,5 @@
-name: Errata
-description: File a errata
+name: 作者に誤字脱字を伝える
+description: 作者に誤字脱字を伝えるための issue template
 title: "誤字脱字のお知らせ"
 labels: [bug]
 assignees:
