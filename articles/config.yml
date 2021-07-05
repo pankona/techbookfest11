@@ -17,12 +17,12 @@ review_version: 5.0
 # inherit: ["A.yml", "B.yml"]
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
-bookname: first-year-of-engineering-manager-0.2.0
+bookname: first-year-of-engineering-manager-0.3.0
 # 記述言語。省略した場合はja
 language: ja
 
 # 書名
-booktitle: {name: "僕が Engineering Manager 一年生のときはこんな感じでしたよ", file-as: "em"}
+booktitle: {name: "Engineering Manager 一年生のときの僕ははこんな感じでした。", file-as: "first-year-of-engineering-manager"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "pankona", file-as: "pankona"}]
@@ -74,7 +74,7 @@ date: 2021-7-10
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
 # 日付の後ろを空白文字で区切り、任意の文字列を置くことも可能。
-history: [["2021-07-10 技術書典11版 v0.2.0"]]
+history: [["2021-07-10 技術書典11版 v0.3.0"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
 rights: (C) 2021 Yosuke Akatsuka (a.k.a pankona)
