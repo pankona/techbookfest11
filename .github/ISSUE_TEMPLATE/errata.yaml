@@ -1,0 +1,20 @@
+name: Errata
+description: File a errata
+title: "誤字脱字のお知らせ"
+labels: [bug]
+assignees:
+  - pankona
+body:
+  - type: textarea
+    id: wrong
+    attributes:
+      label: "どの部分に誤りがありますか？ページ数と該当箇所を教えて下さい :pray:"
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: "正しくはどのようになっているべきでしょうか？ :thinking:"
+    validations:
+      required: true
+
